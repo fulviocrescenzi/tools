@@ -1,0 +1,11 @@
+D:\Projects\Tests\ByteShifStorage\bin\Debug\netcoreapp2.2\ByteShifStorage.deps.json
+D:\Projects\Tests\ByteShifStorage\bin\Debug\netcoreapp2.2\ByteShifStorage.runtimeconfig.json
+D:\Projects\Tests\ByteShifStorage\bin\Debug\netcoreapp2.2\ByteShifStorage.runtimeconfig.dev.json
+D:\Projects\Tests\ByteShifStorage\bin\Debug\netcoreapp2.2\ByteShifStorage.dll
+D:\Projects\Tests\ByteShifStorage\bin\Debug\netcoreapp2.2\ByteShifStorage.pdb
+D:\Projects\Tests\ByteShifStorage\obj\Debug\netcoreapp2.2\ByteShifStorage.csprojAssemblyReference.cache
+D:\Projects\Tests\ByteShifStorage\obj\Debug\netcoreapp2.2\ByteShifStorage.csproj.CoreCompileInputs.cache
+D:\Projects\Tests\ByteShifStorage\obj\Debug\netcoreapp2.2\ByteShifStorage.AssemblyInfoInputs.cache
+D:\Projects\Tests\ByteShifStorage\obj\Debug\netcoreapp2.2\ByteShifStorage.AssemblyInfo.cs
+D:\Projects\Tests\ByteShifStorage\obj\Debug\netcoreapp2.2\ByteShifStorage.dll
+D:\Projects\Tests\ByteShifStorage\obj\Debug\netcoreapp2.2\ByteShifStorage.pdb

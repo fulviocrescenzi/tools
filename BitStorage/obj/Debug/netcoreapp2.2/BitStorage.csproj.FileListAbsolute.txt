@@ -1,0 +1,15 @@
+D:\Projects\Tests\ByteShifStorage\obj\Debug\netcoreapp2.2\BitStorage.csprojAssemblyReference.cache
+D:\Projects\Tests\ByteShifStorage\obj\Debug\netcoreapp2.2\BitStorage.csproj.CoreCompileInputs.cache
+D:\Projects\Tests\ByteShifStorage\obj\Debug\netcoreapp2.2\BitStorage.AssemblyInfoInputs.cache
+D:\Projects\Tests\ByteShifStorage\obj\Debug\netcoreapp2.2\BitStorage.AssemblyInfo.cs
+D:\Projects\Tests\BitStorage\obj\Debug\netcoreapp2.2\BitStorage.csprojAssemblyReference.cache
+D:\Projects\Tests\BitStorage\obj\Debug\netcoreapp2.2\BitStorage.csproj.CoreCompileInputs.cache
+D:\Projects\Tests\BitStorage\obj\Debug\netcoreapp2.2\BitStorage.AssemblyInfoInputs.cache
+D:\Projects\Tests\BitStorage\obj\Debug\netcoreapp2.2\BitStorage.AssemblyInfo.cs
+D:\Projects\Tests\BitStorage\bin\Debug\netcoreapp2.2\BitStorage.deps.json
+D:\Projects\Tests\BitStorage\bin\Debug\netcoreapp2.2\BitStorage.runtimeconfig.json
+D:\Projects\Tests\BitStorage\bin\Debug\netcoreapp2.2\BitStorage.runtimeconfig.dev.json
+D:\Projects\Tests\BitStorage\bin\Debug\netcoreapp2.2\BitStorage.dll
+D:\Projects\Tests\BitStorage\bin\Debug\netcoreapp2.2\BitStorage.pdb
+D:\Projects\Tests\BitStorage\obj\Debug\netcoreapp2.2\BitStorage.dll
+D:\Projects\Tests\BitStorage\obj\Debug\netcoreapp2.2\BitStorage.pdb
